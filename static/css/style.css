@@ -1,0 +1,29 @@
+.bg-dark{
+    background-color: #015dca !important;
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.escudo{
+    /* margin-top: 10px; */
+    width: 60px;
+    height: 60px;
+}
+
+p.date {
+    color:#ccc;
+    font-family: georgia, serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.breadcrumb{
+    background-color: transparent !important;
+}
+
+.btna{
+    min-width: 160px;
+    max-width: 160px;
+}
