@@ -27,3 +27,7 @@ p.date {
     min-width: 160px;
     max-width: 160px;
 }
+
+.carousel-caption h1 {
+    color:#015dca;
+}
